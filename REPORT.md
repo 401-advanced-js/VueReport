@@ -9,7 +9,7 @@
 ### Score (Out of 10): 8
 ### General Comments
 * Front-end
-* Community rocks
+* Fast to learn
 * A mix of Angular and React
 * Becoming increasingly popular
 
