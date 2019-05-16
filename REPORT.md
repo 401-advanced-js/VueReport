@@ -18,7 +18,7 @@
 * Solid community/support
 
 ### Cons
-* What cons?
+* (If you aren't fluent in Mandarin) Most of the code is written in Mandarin.
 
 ---
 ## Ratings and Reviews
