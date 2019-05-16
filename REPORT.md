@@ -58,6 +58,8 @@ or as a script tag in your html
 
 ## Code Demos
 * [live/running application. Made by chrisvfritz](https://codesandbox.io/s/o29j95wx9)
+* [Vue Hello World](https://codesandbox.io/s/vue-world-urwn1)
+* [Vue Input](https://codesandbox.io/s/vue-input-4p45x)
 
 ## Operating Instructions
 It's codeSandbox. Fork it and play with it while looking at the docs
