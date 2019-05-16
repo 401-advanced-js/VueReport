@@ -8,7 +8,10 @@
 ## Overall Score and Comments
 ### Score (Out of 10): 8
 ### General Comments
-Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
+* Front-end
+* Community rocks
+* A mix of Angular and React
+* Becoming increasingly popular
 
 ### Pros
 * Low learning curve
